@@ -16,7 +16,8 @@
    ![pic4](https://user-images.githubusercontent.com/51110675/183122906-1642b2c5-a8ec-4d4b-9431-d15de616b4fa.JPG)
    
 5) To check the result, use command : curl 127.0.0.1 
-   
 
-7) 
+   ![pic5](https://user-images.githubusercontent.com/51110675/183124118-aa6ede61-9df0-48f0-9c87-4d5d9d790f7c.jpg)
+
+6) Check IP address of Ubuntu by command IP ADDR. As shown in picture, the IP address is 192.168.50.152 
 
