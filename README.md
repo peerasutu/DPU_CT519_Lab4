@@ -8,5 +8,6 @@
    ![pic2](https://user-images.githubusercontent.com/51110675/183119463-2fb3ae0e-a86a-4c85-b5b7-ba36d314bd3d.JPG)
    
 3) To run Docker compose command, type command : sudo docker compose up -d as shown in picture below:   
-
+   
+   ![pic3](https://user-images.githubusercontent.com/51110675/183121957-b9280783-fb80-463c-91ee-ce646dc5540d.JPG)
 
