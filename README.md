@@ -20,4 +20,9 @@
    ![pic5](https://user-images.githubusercontent.com/51110675/183124118-aa6ede61-9df0-48f0-9c87-4d5d9d790f7c.jpg)
 
 6) Check IP address of Ubuntu by command IP ADDR. As shown in picture, the IP address is 192.168.50.152 
+   
+   ![pic6](https://user-images.githubusercontent.com/51110675/183125245-3f77eaf9-e943-4fde-8e93-0a3744d9a53b.jpg)
 
+7) At host computer (Windows) do call data test from Web Browser with URL : http://192.168.50.152 The picture below shows the result.
+    
+9) Test
