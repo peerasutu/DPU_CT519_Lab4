@@ -11,3 +11,8 @@
    
    ![pic3](https://user-images.githubusercontent.com/51110675/183121957-b9280783-fb80-463c-91ee-ce646dc5540d.JPG)
 
+4) Once finishes the compose, the terminal program will be shown as below :
+   
+   
+6) 
+
