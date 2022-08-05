@@ -24,5 +24,7 @@
    ![pic6](https://user-images.githubusercontent.com/51110675/183125245-3f77eaf9-e943-4fde-8e93-0a3744d9a53b.jpg)
 
 7) At host computer (Windows) do call data test from Web Browser with URL : http://192.168.50.152 The picture below shows the result.
-    
+   
+   ![pic7](https://user-images.githubusercontent.com/51110675/183126181-d5b96c05-4868-47a5-a2f7-22db4d7d0210.jpg)
+   
 9) Test
